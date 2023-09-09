@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "title": "c++",
+      "auther": "cpp",
+      "id": 6
+    },
+    {
+      "title": "java",
+      "auther": "bluej",
+      "id": 7
+    },
+    {
+      "title": "dummy",
+      "auther": "Data",
+      "id": 8
+    },
+    {
+      "title": "aa",
+      "auther": "aa",
+      "id": 9
+    },
+    {
+      "title": "a",
+      "auther": "a",
+      "id": 10
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "as",
+      "email": "as",
+      "password": "as",
+      "id": 2
+    },
+    {
+      "name": "AS",
+      "email": "asa",
+      "password": "as",
+      "id": 3
+    },
+    {
+      "name": "qwww",
+      "email": "qww",
+      "password": "qwwe",
+      "id": 4
+    },
+    {
+      "name": "qqq",
+      "email": "qqq",
+      "password": "qqq",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
